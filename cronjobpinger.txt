@@ -1,0 +1,3 @@
+*/2 * * * * curl -s https://www.google.com > /dev/null
+
+#this cron job will ping google.com every 2 mins keeping the linux device always online paste this at the bottom of the cron tab
